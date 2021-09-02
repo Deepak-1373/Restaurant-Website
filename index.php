@@ -24,7 +24,6 @@
             <p>
               <img src="images/star-k-logo.png" alt="Kosher certification">
               <span>Certified</span><br>
-              <button  id="reserve" class="form-control"><a href="reservation.php">Reservation</a></button>
             </p>
           </div>
           <button id="navbarToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
